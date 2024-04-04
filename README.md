@@ -22,15 +22,30 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+**Project Readme**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Project Name:** Next.js Simple Project
 
-## Deploy on Vercel
+**Description:**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project aims to demonstrate a simple implementation using Next.js framework, utilizing an external API. The primary goal was to create a basic application that fetches data from an external API and displays it dynamically. Additionally, the project is configured for deployment on Vercel.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**Features:**
+
+- Fetching data from an external API.
+- Displaying fetched data dynamically.
+- Deployment on Vercel.
+
+**Usage:**
+
+To view the project, simply visit the following URL: [Next.js Simple Project](https://nextjs-firstproject-1ltsqhuef-horacio-demarias-projects.vercel.app/)
+
+**Technologies Used:**
+
+- Next.js
+- External API
+- Vercel (for deployment)
+
+
